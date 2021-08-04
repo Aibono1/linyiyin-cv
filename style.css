@@ -6,11 +6,11 @@ html {
 body {
   color: #283655 !important;
   background-color: #f7faff !important;
-  font-family: 'Rambla', sans-serif;
+  font-family: "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
   overflow-x: hidden;
 }
 h2, h3 {
-  font-family: 'Audiowide', sans-serif;
+  font-family: "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
   letter-spacing: 0.2em;
   text-transform: uppercase;
   text-shadow: -1px -1px 1px #283655;

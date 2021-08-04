@@ -15,9 +15,9 @@ window.addEventListener('scroll', function () {
 
 // TYPED
 var typed = new Typed('.typed', {
-  strings: ["Bonjour à tous et à toutes, je me présente je m'appelle Yiyin.",
-    "Après avoir obtenu mon diplôme de Bac+4, j'ai découvert un grand intérêt pour le monde informatique et son évolution croissante. J'ai décidé de me lancer à fond dans l'apprentissage du code, depuis près de 6 mois je me forme à temps plein en autodidacte aux langages Front tels que CSS, JavaScript et son Framework Vue.js afin devenir le plus rapidement possible développeur. Plus qu'un avenir professionnel, je me suis découvert une passion, celle de coder."],
-  typeSpeed: 20
+  strings: ["你好, 欢迎来到我的个人简历主页。",
+    "我叫林亦吟，今年23岁，于去年毕业于英国的兰卡斯特大学。毕业之后我由于种种机缘巧合在前端这一快速发展的领域挖掘出了自己的热情，之后我在一家法企从零开始学习接触了相关的前端技术，在个人能力和技术实现上都有了不断地突破。我喜欢这一行业，希望回国后的现在也能够继续从事这一方面的工作。"],
+  typeSpeed: 50
 })
 
 // COMPTEUR LIVE
